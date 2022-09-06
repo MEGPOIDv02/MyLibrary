@@ -2,8 +2,8 @@ public struct MyLibrary {
     init() {
     }
     
-    public func HelloName(name:String)->String{
-        return "saludos \(name)"
+    public func HelloName()->String{
+        return "Saludos Diego"
     }
     
 }
