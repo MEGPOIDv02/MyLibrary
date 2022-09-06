@@ -1,5 +1,5 @@
 public struct MyLibrary {
-    init() {
+    public init() {
     }
     
     public func HelloName()->String{
